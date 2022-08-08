@@ -1,0 +1,146 @@
+body {
+    
+    background-color: whitesmoke;
+  }
+  
+  ul {
+    
+    margin: 0;
+    padding: 0;
+    width: 5%;
+    background-color: black;
+    position: fixed;
+    height: 150%;
+    
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 18px 22px;
+    text-decoration: none;
+  }
+  
+  li a.active {
+    
+    color: white;
+  }
+  
+p{
+  margin-top: -10px;
+  margin-left: 80px;
+  font-size: large;
+  font-weight: bold;
+}
+  p1{
+    margin-left: 80px;
+    
+  }
+  .yellow{
+    margin-left: 80px;
+    height: 120px;
+    width:200px;
+    background-color: orange;
+    background-image: linear-gradient(to bottom,rgb(214, 149, 63) , rgba(168, 102, 16, 0.928));
+  }
+  .red{
+    margin-left: 80px;
+    height: 120px;
+    width:200px;
+    background-color: rgb(232, 33, 33);
+    display: table;
+  }
+  .p2{
+    font-weight: bold;
+    color: white;
+  }
+  .black{
+    margin-left: 300px;
+    margin-top: -270px;
+    height: 270px;
+    width:550px;
+    background-color: black;
+    border-radius: 20px;
+  }
+
+
+
+
+
+.blue{
+  margin-left: 80px;
+  margin-top: 120px;
+    height: 150px;
+    width:320px;
+    border-radius: 5px;
+    background-color: rgba(37, 26, 81, 0.835);
+}
+.merun{
+
+  margin-left: 420px;
+  margin-top: -150px;
+    height: 150px;
+    width:230px;
+    border-radius: 5px;
+    background-color: rgb(66, 14, 52);
+
+}
+.darkblue{
+
+  margin-left: 660px;
+  margin-top: -150px;
+    height: 150px;
+    width:250px;
+    border-radius: 5px;
+    background-color: rgb(40, 40, 85);
+
+}
+
+
+
+
+
+
+
+  /* last card */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    margin-right: 10px;
+    margin-top: -350px;
+    font-family: arial;
+  }
+  .container {
+    padding-left: 30px;
+  }
+  .pp{
+    margin-top:-15px;
+ }
+
+ .avatar {
+  float: right;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 270px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color:rgb(101, 101, 187);
+    border-radius: 20px;
+    color: white;
+    height: 90px;
+  }
+  .pp2{
+    color:orange;
+   margin-left: 190px;
+   margin-top: 16px;
+  }
+  h1{
+    margin-top: -10px;
+  }
